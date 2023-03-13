@@ -28,7 +28,7 @@ type PushMessage struct {
 }
 
 const (
-	topic          = "me.fin.bark"
+	topic          = "me.fin.bark1"
 	keyID          = "LH4T9V5U4R"
 	teamID         = "5U8LBRXG3A"
 	PayloadMaximum = 4096
